@@ -1,0 +1,9 @@
+@import url(../styles/style.css);
+
+.myTitle {
+  margin-top: 15px
+}
+
+.game-card {
+  background-color: #fafafa65;
+}
